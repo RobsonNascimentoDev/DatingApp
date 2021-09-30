@@ -1,0 +1,13 @@
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+
+.formLogin, .dropdown {
+    position: fixed;
+    display: flex;
+    right: 4%;
+}
+
+.form-control {
+    margin-right: 2%;
+}
